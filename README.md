@@ -1,4 +1,4 @@
-# BetterSearch
+# BetterSearch 🔎
 
 This is the repository where the user interface of the BetterSearch system would be released soon.
 

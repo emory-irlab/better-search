@@ -1,7 +1,9 @@
 # BetterSearch 🔎
 
 This is the repository where the user interface of the BetterSearch system would be released soon.
+
 Paper Link: [An Interactive Query Generation Assistant using LLM-based Prompt Modification and User Feedback](https://arxiv.org/abs/2311.11226)
+
 Video: [Better Search IARPA Demonstration](https://www.youtube.com/watch?v=d1bN6vcQ4Lc)
 
 BetterSearch, a cross-lingual search interface that supports automatic and interactive query generation over the [BETTER](https://www.iarpa.gov/research-programs/better) dataset. BetterSearch provides a simple document search interface that displays documents in their original language along with their English translations, making it simple for researchers to navigate and analyze search results. The tool also supports diverse query generation, allowing users to explore search results more comprehensively. More importantly, it combines search with a prompting-based query generation interface which permits users to refine their queries and prompts with retrieval information. The BetterSearch interface could work as an effective starting template for performing qualitative analysis over other information retrieval experiments and datasets as well as serve as a tool to incorporate retrieval feedback and Human-In-The-Loop (HITL) studies. 

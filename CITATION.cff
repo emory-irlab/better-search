@@ -21,3 +21,15 @@ keywords:
   - "User Feedback"
   - "Artificial Intelligence"
 license: "Apache-2.0" 
+references:
+  - title: "An Interactive Query Generation Assistant using LLM-based Prompt Modification and User Feedback"
+    authors:
+      - family-names: Dhole
+        given-names: Kaustubh D.
+      - family-names: Chandradevan
+        given-names: Ramraj
+      - family-names: Agichtein
+        given-names: Eugene
+      year: 2023
+    doi: "10.48550/arXiv.2311.11226"
+    url: "https://arxiv.org/abs/2311.11226"

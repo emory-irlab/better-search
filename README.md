@@ -27,7 +27,8 @@ We recommend running the colab code shared as a part of the [Query Explorer repo
       eprint={2311.11226},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2311.11226}
+      url={https://arxiv.org/abs/2311.11226},
+      note={BETTER IARPA Demonstration Day}
 }
 ```
 Kaustubh Dhole, Ramaraj Chandradevan, Eugene Agichtein (Emory IR Lab) and the JHU Team
